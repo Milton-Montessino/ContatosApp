@@ -1,0 +1,29 @@
+# Arquivos temporários gerados pela IDE
+.vs/
+*.suo
+*.cache
+*.log
+bin/
+obj/
+
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+
+# Diretório de publicação
+publish/
+
+# Pacotes NuGet
+*.nupkg
+*.dll
+*.exe
+packages/
+
+# Arquivos de configuração do Visual Studio
+*.user
+*.suo
+*.sln.docstates
+
+# Arquivos de compilação do Visual Studio Code
+.vscode/
